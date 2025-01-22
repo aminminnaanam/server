@@ -7,7 +7,7 @@
 	#Hydration restored from drinking with hands.
 	hand_drinking_hydration = 0.1
 	#Thirst restored from drinking with hands.
-	hand_drinking_thirst = 5
+	hand_drinking_thirst = 1
 
 [toggles]
 	#Prevent sprinting when thirsty.
@@ -19,5 +19,5 @@
 	#Remove source blocks when filling the canteen.
 	remove_source_blocks = false
 	#Enable or disable hand drinking.
-	enable_hand_drinking = true
+	enable_hand_drinking = false
 
